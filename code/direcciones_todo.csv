@@ -1,0 +1,13 @@
+nombre,direccion_origen,direccion_destino,origen_lat,origen_lon,destino_lat,destino_lon
+A1,Alcala de henares Madrid,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.48166,-3.36414,40.49601,-3.67182
+B1,"Calle de Anabel Segura, 14, 28108 Alcobendas, Madrid","Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.53333,-3.62777,40.49601,-3.67182
+C1,"Calle de Maqueda, 86, 28024 Madrid","Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.39019,-3.76376,40.49601,-3.67182
+D1,San agustin del guadalix Madrid,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.67867,-3.61586,40.49601,-3.67182
+E1,Colmenar viejo Madrid,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.65895,-3.76604,40.49601,-3.67182
+F1,Plaza Castilla 28046 Madrid,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",40.46566,-3.68967,40.49601,-3.67182
+A1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",Alcala de henares Madrid,40.49601,-3.67182,40.48166,-3.36414
+B1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid","Calle de Anabel Segura, 14, 28108 Alcobendas, Madrid",40.49601,-3.67182,40.53333,-3.62777
+C1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid","Calle de Maqueda, 86, 28024 Madrid",40.49601,-3.67182,40.39019,-3.76376
+D1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",San agustin del guadalix Madrid,40.49601,-3.67182,40.67867,-3.61586
+E1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",Colmenar viejo Madrid,40.49601,-3.67182,40.65895,-3.76604
+F1v,"Calle Puerto de Somport, 9, Edificio Oxxeo, 28050 Madrid",Plaza Castilla 28046 Madrid,40.49601,-3.67182,40.46566,-3.68967
