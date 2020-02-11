@@ -55,7 +55,7 @@ Las rutas son calculadas con TomTom API https://developer.tomtom.com/
 
 Al registrarte https://developer.tomtom.com/user/register se proporciona una key para hacer las peticiones API
 
-![image-20200211123936063](C:\Users\antomart\AppData\Roaming\Typora\typora-user-images\image-20200211123936063.png)
+![CaptureTomTomAPI](CaptureTomTomAPI.JPG)
 
 
 
@@ -77,7 +77,7 @@ Máximo **16 direcciones** (8 rutas de ida y 8 rutas de vuelta) cada **10 minuto
 
 **Pythonanywhere.com**
 
-![image-20200211131022801](C:\Users\antomart\AppData\Roaming\Typora\typora-user-images\image-20200211131022801.png)
+![mapa](mapa.png)
 
 
 
@@ -91,9 +91,9 @@ Con los datos obtenidos cada 10 minutos se muestra las gráficas:
 
 y los tiempos medios por ruta en días laborables
 
-![image-20200211134825551](C:\Users\antomart\AppData\Roaming\Typora\typora-user-images\image-20200211134825551.png)
+![image_day](image_day.png)
 
-![image-20200211134937143](C:\Users\antomart\AppData\Roaming\Typora\typora-user-images\image-20200211134937143.png)
+![image_week](image_week.png)
 
 
 
