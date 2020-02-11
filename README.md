@@ -1,4 +1,4 @@
-# Desplazamientos a oficina
+# Desplazamientos a la oficina
 
 Usando **TomTom API**, se calculan los recorridos habituales desde distintas direcciones (localidades de residencia de los empleados) hasta su lugar de trabajo, así como la vuelta.
 
@@ -6,7 +6,7 @@ Cada 10 minutos, o el intervalo deseado, se calculan el tiempo y los kilómetros
 
 Se usa **pythonanywhere.com** como hosting free
 
-![rutaTomtomOficina2](C:\D\Anaconda\rutas\rutaTomtomOficina.jpg)
+![rutaTomtomOficina](rutaTomtomOficina.jpg)
 
 
 
