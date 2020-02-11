@@ -6,7 +6,7 @@ Cada 10 minutos, o el intervalo deseado, se calculan el tiempo y los kilómetros
 
 Se usa **pythonanywhere.com** como hosting free
 
-![rutaTomtomOficina](img/rutaTomtomOficina.jpg)
+![rutaTomtomOficina](rutaTomtomOficina.jpg)
 
 
 
